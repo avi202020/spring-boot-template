@@ -35,3 +35,7 @@ Spring Boot、Gradle、MySQL、Junit 5、Rest Assured、Docker
 |单元测试|`src/test/java`|包含核心领域模型（包含领域对象和Factory类）的测试|
 |组件测试|`src/componentTest/java`|用于测试一些核心的组件级对象，比如Repository|
 |API测试|`src/apiTest/java`|模拟客户端调用API|
+
+
+# FAQ
+- IntelliJ中启用Lombok：Preferences -> Build, Execution, Deployment -> Compiler -> Annotation Processors；Enable annotation processing box is checked；Obtain processors from project classpath option is selected
