@@ -12,6 +12,7 @@ Spring Boot 独立项目模板,包含以下设施：
 - Jackson2 ObjectMapper
 - 异常处理机制
 - Flyway迁移脚本
+- Lombok
 
 # 技术选型
 Spring Boot、Gradle、MySQL、Junit 5、Rest Assured、Docker
